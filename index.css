@@ -1,0 +1,9 @@
+h1 {
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+}
